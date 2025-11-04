@@ -1,0 +1,60 @@
+Category,Subcategory,Value
+Gender,Female,50
+Gender,Male,50
+Age,0-14,25
+Age,15-64,65
+Age,65+,10
+Geography,Sub-Saharan Africa,15
+Geography,Northern Africa & Western Asia,7
+Geography,Central & Southern Asia,26
+Geography,Eastern & South-Eastern Asia,29
+Geography,Latin America & Caribbean,8
+Geography,Australia/New Zealand/Oceania,1
+Geography,Europe & Northern America,14
+Religion,Christian,31
+Religion,Muslim,25
+Religion,No Religion,16
+Religion,Hindu,15
+Religion,Buddhist,7
+Religion,Folk Religion,5
+Religion,Jewish/Other,1
+Language,Mandarin Chinese,12
+Language,Spanish,6
+Language,English,5
+Language,Arabic,5
+Language,Hindi,4
+Language,Bengali,3
+Language,Portuguese,3
+Language,Russian,2
+Language,Japanese,2
+Language,Other,58
+Literacy Overall,Literate,87
+Literacy Overall,Illiterate,13
+Literacy (Male),Literate,90
+Literacy (Male),Illiterate,10
+Literacy (Female),Literate,83
+Literacy (Female),Illiterate,17
+Education,Primary (Male),91
+Education,Primary (Female),90
+Education,Secondary (Male),66
+Education,Secondary (Female),66
+Education,Tertiary (Male),36
+Education,Tertiary (Female),41
+Shelter,Adequate,78
+Shelter,Inadequate,22
+Urban/Rural,Urban,57
+Urban/Rural,Rural,43
+Drinking Water,Safe,92
+Drinking Water,Unsafe,8
+Food,Undernourished,11
+Food,Food Insecure (Moderate/Severe),29
+Infectious Disease,HIV/AIDS,1
+Infectious Disease,Long COVID,3
+Poverty,Extreme Poverty (<$2.15/day),8
+Electricity,Access,91
+Electricity,No Access,9
+Technology,Cell Phone Users,91
+Technology,Internet Users,66
+Technology,Mobile Network Coverage,95
+Sanitation,Private Toilet,79
+Sanitation,No Private Toilet,21
