@@ -50,9 +50,9 @@ It highlights how male–female literacy and education levels differ globally ac
 ## 📂 Files
 | File | Description |
 |------|--------------|
-| `Dhanalakshmi-KannurMunirathnam-BIS582_Assignment3.twbx` | Tableau workbook |
+| `tableau-world-as-100-people.twbx` | Tableau workbook |
 | `world_as_100_people.csv` | Dataset |
-| `assign 2 part3.png` | Dashboard screenshot |
+| `tableau-world-as-100-people.png` | Dashboard screenshot |
 
 ---
 
