@@ -43,7 +43,9 @@ It highlights how male–female literacy and education levels differ globally ac
 ---
 
 ## 📷 Preview
-![World as 100 People Dashboard](./tableau-world-as-100-people.png)
+
+<img width="855" height="708" alt="image" src="https://github.com/user-attachments/assets/65d1fcf0-6668-40ff-9f2d-e00cd0d25e12" />
+
 
 ---
 
