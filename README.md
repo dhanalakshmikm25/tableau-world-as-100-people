@@ -37,7 +37,8 @@ It highlights how male–female literacy and education levels differ globally ac
 ---
 
 ## 🌐 View Interactive Dashboard
-[View on Tableau Public →](https://public.tableau.com/views/Dhanalakshmi-KannurMunirathnam-BIS582Assignment3/Dashboard1)
+[View on Tableau Public →](https://public.tableau.com/app/profile/dhanalakshmi.kannur.munirathnam/viz/Dhanalakshmi-KannurMunirathnam-BIS582Assignment3/Dashboard1?publish=yes)
+
 
 ---
 
